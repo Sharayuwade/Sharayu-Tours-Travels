@@ -1,1 +1,2 @@
-abc
+A basic travel website developed using HTML as part of my web development learning journey. This project demonstrates the use of semantic HTML elements, navigation menus, images, sections, and hyperlinks to create a simple tourism website.
+Sharayu Tours & Travels is a static travel website that provides visitors with information about tour packages, popular destinations, travel services, and booking options. The project is designed to practice fundamental HTML concepts and webpage structuring.
